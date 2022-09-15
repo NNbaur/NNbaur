@@ -11,6 +11,9 @@
    <a href="mailto:bbn2tpu@gmail.com">
     <img src="https://img.shields.io/badge/bbn2tpu@gmail.com-white?logo=Gmail&logoColor=red&style=for-the-badge" alt="Gmail Badge"/>
   </a>
+     <a href="https://www.codewars.com/users/bb2bn">
+    <img src="https://img.shields.io/badge/codewars-white?logo=codewars&logoColor=red&style=for-the-badge" alt="Codewars Badge"/>
+  </a>
 </div>
 
 <div align="center">
