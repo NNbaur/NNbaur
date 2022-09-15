@@ -22,9 +22,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" width="600" height="400"/>
-</div>
 
 ### 👨‍💻 About Me :
 - 👋: I am Baurzhan Nurmukhambetov from Kazakhstan, Nur-Sultan
