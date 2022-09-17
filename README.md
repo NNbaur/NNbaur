@@ -30,7 +30,7 @@
 - 👋: I am Baurzhan Nurmukhambetov from Kazakhstan, Nur-Sultan
 - 🔍: I am looking for job as python developer
 - 💻: I am learning all about python and development
-- 🥼: I worked as a laboratory engineer at a gold mining enterprise(PJSC Polyus) in Russia and as expert in the implementation of the laboratory information management system(LIMS from Labware)
+- 🥼: I worked as a laboratory engineer at a gold mining enterprise(PJSC Polyus) in Russia and as expert in the implementation of the laboratory information management system(LIMS by Labware)
 
 ### 🛠️ Language and tools:
 python, OOP, sql, DBMS(sqlite, postgresql, mysql), django, pytest, unittest, html, css, git, linux(ubuntu).
