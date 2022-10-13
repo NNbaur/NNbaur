@@ -29,13 +29,12 @@
 ### 👨‍💻 About Me :
 - 👋: Baurzhan Nurmukhambetov from Kazakhstan, Astana
 - 💻: learning all about python and development
-- 🥼: worked as a laboratory engineer at a gold mining enterprise(PJSC Polyus)
-- 👍: implemented a laboratory information management system(LIMS by Labware) as an implementation expert
+- 👍: implemented a laboratory information management system(LIMS by Labware) as an implementation expert at a gold mining enterprise(PJSC Polyus)
 
 ### 🛠️ Language and tools:
 - Python
 - OOP
-- Sql
+- SQL
 - DBMS(sqlite, postgresql)
 - Django
 - Pytest, unittest
